@@ -1,5 +1,5 @@
 ---
-SITE1:
+SITE1: #forcing action
   children:
     CVP:
       hosts:
